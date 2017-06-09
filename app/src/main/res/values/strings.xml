@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Upload File</string>
+    <string name="action_settings">Settings</string>
+    <string name="send_json">Send JSON</string>
+    <string name="status">Status</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="success">Success</string>
+    <string name="failed">Failed</string>
+</resources>
